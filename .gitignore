@@ -5,7 +5,7 @@ __pycache__/
 
 factset/
 
-.vscode/
+**/.vscode/*
 
 instance/
 
